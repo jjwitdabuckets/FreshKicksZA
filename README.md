@@ -24,15 +24,15 @@ Professional sneaker cleaning and restoration service based in South Africa. We 
 ## 📅 Project Timeline
 | Quarter       | Milestone                         |
 |---------------|-----------------------------------|
-| Q3 2023       | Brand development                 |
-| Q4 2023       | Website launch (Coming Soon page) |
-| Q1 2024       | Service beta testing              |
-| Q2 2024       | Full service launch               |
+| Q3 2026       | Brand development                 |
+| Q4 2030       | Website launch (Coming Soon page) |
+| Q1 2026/7       | Service beta testing              |
+| Q2 2030       | Full service launch               |
 
 ## 🎨 Brand Guidelines
 - **Color Scheme**: 
-  - Primary: Black (#000000) & White (#FFFFFF)
-  - Accent: Electric Green (#00FF00)
+  - Primary: Black & White
+  - Accent: Electric Green
 - **Typography**:
   - Headings: Poppins (Bold)
   - Body: Lato (Regular)
