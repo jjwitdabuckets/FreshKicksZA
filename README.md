@@ -1,12 +1,11 @@
 # Fresh Kicks ZA - Sneaker Cleaning Service
 
-![Fresh Kicks ZA Logo Banner](https://via.placeholder.com/800x200/000000/00FF00?text=FRESH+KICKS+ZA)
 
 ## 🚀 Coming Soon
 Professional sneaker cleaning and restoration service based in South Africa. We bring your favorite kicks back to life!
 
 ## 🌐 Website
-[www.freshkicksza.co.za](https://www.freshkicksza.co.za) (Coming Soon)
+[www.freshkicksza.co.za](file:///D:/Projects/FreshKicksZA.html) (Coming Soon)
 
 ## ✨ Features
 - Premium sneaker cleaning services
