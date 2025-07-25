@@ -25,7 +25,7 @@ Professional sneaker cleaning and restoration service based in South Africa. We 
 | Quarter       | Milestone                         |
 |---------------|-----------------------------------|
 | Q3 2026       | Brand development                 |
-| Q4 2030       | Website launch (Coming Soon page) |
+| Q4 2025       | Website launch (Coming Soon page) |
 | Q1 2026/7       | Service beta testing              |
 | Q2 2030       | Full service launch               |
 
